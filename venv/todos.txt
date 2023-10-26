@@ -1,6 +1,5 @@
 puma
 addidas
 nike
-umbro
 converse
 superstar
